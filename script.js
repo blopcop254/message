@@ -5,7 +5,7 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "congratulation for turning 17 have a blast ";
+  question.innerHTML = "congratulation for turning 17 have a blast dont mind the colors i could not find anything else ";
   gif.src =
     "https://raw.githubusercontent.com/DzarelDeveloper/Img/main/gif.webp";
 });
